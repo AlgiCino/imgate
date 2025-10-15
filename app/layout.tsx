@@ -1,8 +1,5 @@
 import './globals.css';
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
-
-const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Imperium Gate — Ultra Luxury Real Estate',
@@ -40,7 +37,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" dir="ltr">{/* إضافة خاصية dir لتحسين التوافق */}
       {/* تحسينات عامة للأداء وSEO */}
-      <body className={inter.className}>
+      <body className="font-sans">
         <div className="min-h-screen bg-neutral-50 text-neutral-900">
           {children}
         </div>

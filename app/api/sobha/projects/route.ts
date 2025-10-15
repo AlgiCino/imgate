@@ -19,22 +19,27 @@ interface Project {
 
 async function readFallback(): Promise<Project[]> {
   const fallbackPath = path.join(process.cwd(), 'data', 'sobha_projects_fallback.json');
-  const raw = await fs.readFile(fallbackPath, 'utf-8');
-  const parsed = JSON.parse(raw);
+  try {
+    const raw = await fs.readFile(fallbackPath, 'utf-8');
+    const parsed = JSON.parse(raw);
 
-  // في بعض الأحيان قد يكون الملف ملف كائن يحتوي على مفتاح data
-  const items: Project[] = Array.isArray(parsed) ? parsed : (parsed?.data ?? []);
+    // في بعض الأحيان قد يكون الملف ملف كائن يحتوي على مفتاح data
+    const items: Project[] = Array.isArray(parsed) ? parsed : (parsed?.data ?? []);
 
-  // ضمان الحقول الأساسية والتطبيع
-  return items.map((p: any) => ({
-    title: p.title ?? p.name ?? '',
-    location: p.location ?? '',
-    price: p.price ?? '',
-    image: p.image ?? p.thumbnail ?? '',
-    link: p.link ?? p.url ?? '',
-    developer: p.developer ?? 'Sobha',
-    id: p.id ?? undefined,
-  }));
+    // ضمان الحقول الأساسية والتطبيع
+    return items.map((p: any) => ({
+      title: p.title ?? p.name ?? '',
+      location: p.location ?? '',
+      price: p.price ?? '',
+      image: p.image ?? p.thumbnail ?? '',
+      link: p.link ?? p.url ?? '',
+      developer: p.developer ?? 'Sobha',
+      id: p.id ?? undefined,
+    }));
+  } catch (error) {
+    console.log('Fallback file not found or invalid, will try live scraping');
+    return [];
+  }
 }
 
 async function fetchLiveProjects(): Promise<Project[]> {
