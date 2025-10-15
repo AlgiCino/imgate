@@ -1,0 +1,48 @@
+{
+  "id": "https://www.damacproperties.com/en/communities/damac-hills-2/projects/elo-2/",
+  "url": "https://www.damacproperties.com/en/communities/damac-hills-2/projects/elo-2/",
+  "name": "ELO Two DAMAC Hills 2 Apartments for Sale in Dubai | DAMAC Properties",
+  "description": "ELO 2 By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/1JaYgqMZQP4uqYslyJ0osF/528ad55c7efbeac713bcd52efc3003d5/653x685-EN__20_.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/xjBY5LDVK9X9QC8O0aJL7/fe381d2a42aa4f63812697b1c5dce6db/ELO_2-Amenities-01-Pool-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5MDWzY8QMMSuvnONnZeoio/a645b0dbb35d0de434419d92f35ae32b/ELO-Amenities-02-Swim-Up-Bar-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1HjPvUwc273W4ZoFMuNwTz/df164d8a1d620c4568f8c5ecb5662f03/ELO_2-Amenities-03-Climbing-Wall-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/73RkZg9pGGNQivHBan8QCW/a77f49a388abfa207c3f5c8b9ac73a31/ELO-Amenities-04-Malibu-Beach-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/9YRqxR7QvIKDotlYrfckC/66f24d4066c1e89a87e664f22bf3d20d/ELO_2-Amenities-05-Sports-Fields-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/58GPWsnYJSXXQpDi6DMWxg/23c33ea5d1634e864a54fdb47bd81a99/ELO-Amenities-06-Fishing-Lake-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6TmBNed9kqH9GSO7vBZcu0/db846d52e9913b127c1822a4d6bad622/ELO_2-Amenities-07-Lazy-River-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6PsmHIpOnxCcPsU5DbWn7F/07b4a206785b06d1d70534d52121fb5c/ELO-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/3oI21fLGdCue0tvnFeR7yv/207dafc31f2bc7b86f9dab5c36f94150/DP.com_ELo_2_Hero_video__9x16_.mp4",
+    "https://videos.ctfassets.net/zoq5l15g49wj/25DB2EBjPRMEpz6JFhjIAl/c425fe459af7fbe905603f4eda56ae11/DP.com_ELo2__Hero_video__9x16_.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

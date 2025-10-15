@@ -1,0 +1,46 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/canal-crown/",
+  "url": "https://www.damacproperties.com/en/projects/canal-crown/",
+  "name": "DAMAC Canal Crown de GRISOGONO - Apartments for Sale in Dubai | DAMAC Properties",
+  "description": "Canal Crown By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/4T9O0xZBSEHgW3AgZFUyxS/1f8c8b01b048e1022f9c205556c78580/498301303-653x685-en.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/vxK9kOZF5duXMIZjuSHi6/5464ddbd7698cf3ce9053fdda2b0ec61/Canal_Crown-Logo_EN_-_WHITE__1_.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/6ccXeolIfEv2IWDhIRjNDD/92397db60719da017db6d9f5f4278230/amenity-1-planet-garden-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/58yAiNdFcDdGqbvFdMFrgk/1606b4302256f2c21a65382be362aeee/amenity-2-aqua-gym-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/645S4UkcAeJNrBUDJKssw8/46523b2c2c9de596e3c596c11a244d3b/654944471-canal-crown-amenity-3-cafe-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3Mg3ONN5XQ1ZsTZOXHoSex/3a3513b87ea077968564c648d441b436/amenity-4-infinity-pool-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/7w4qm8wvC3Fwm4RXur8ju4/f57e9b1b1da6240ba8c59d9614a9e08d/Canal_Crown-Amenities-5-Swim_VR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2ARc91CXliZTfulpCj0xYu/ce2054923e2e54f27e1c5b35b70efb0b/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/hzR3XFLTOrDowCGVsnVV6/0006118000aa94b91dd7a5a0877ea811/Canal_Crown-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/1G81QAU2qil5PNfvDDaNil/05ae3226a247e64d6d9fef9906aaf1c6/Compressed_CANAL_CROWN_Hero_video__9x16__72820678.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

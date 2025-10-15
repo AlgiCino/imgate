@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.glass-liquid::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.2), transparent 70%),
+              radial-gradient(circle at 70% 70%, rgba(255,255,255,0.15), transparent 80%);
+  filter: blur(40px);
+  opacity: 0.55;
+  mix-blend-mode: overlay;
+  pointer-events: none;
+}
+
+/* اجعل الهيدر فوق كل شيء */
+.header-fixed {
+  position: fixed;
+  inset: 0 auto auto 0;
+  right: 0;
+  z-index: 10000;
+}
+
+/* تأكد أن الخريطة لا تتخطى الهيدر/المنيو */
+.map-wrap { position: relative; z-index: 0; }
+.leaflet-container { z-index: 0 !important; }
+
+/* لو عندك منيو منسدلة/أوفرلاي */
+.menu-layer,
+.dropdown-panel {
+  position: absolute;
+  z-index: 11000;
+}
+
+/* زجاج ناعم + توهج + لمعة */
+.glass {
+  /* lighter frosted glass for project cards */
+  background: rgba(255,255,255,var(--glass-opacity,0.06));
+  backdrop-filter: blur(var(--glass-blur,12px));
+  border: 1px solid rgba(255,255,255,calc(var(--glass-opacity,0.06) * 2));
+}
+.glass-strong {
+  /* slightly stronger but still airy */
+  background: rgba(255,255,255,var(--glass-strong-opacity,0.10));
+  backdrop-filter: blur(var(--glass-strong-blur,16px));
+  border: 1px solid rgba(255,255,255,calc(var(--glass-strong-opacity,0.10) * 1.6));
+}
+.shadow-glow {
+  box-shadow:
+    0 6px 20px rgba(0,0,0,.35),
+    0 0 25px rgba(212,175,55,.15);
+}
+
+/* A stronger liquid glass class for hero/project overlays */
+.glass-liquid-strong {
+  position: relative;
+  overflow: hidden;
+}
+
+/* لمعة تمرّ فوق الكرت */
+.shine {
+  position: relative;
+  overflow: hidden;
+}
+.shine::after {
+  content: "";
+  position: absolute; inset: 0;
+  transform: translateX(-120%);
+  background: linear-gradient(110deg, transparent 0%, rgba(255,255,255,.22) 25%, transparent 55%);
+  filter: blur(6px);
+  animation: shine-sweep 3.6s linear infinite;
+}
+@keyframes shine-sweep {
+  0%   { transform: translateX(-120%); }
+  60%  { transform: translateX(140%); }
+  100% { transform: translateX(140%); }
+}
+
+:root {
+  --bg: #0B0E13;
+  --glass: rgba(255,255,255,.06);
+  --glass-strong: rgba(255,255,255,.12);
+  /* Brand accent colors (luxury gold) */
+  --accent: #D4AF37; /* primary gold */
+  --accent-hover: #B68D2C; /* hover / deeper gold */
+  --accent-alt: #FDBA74; /* alternative accent requested */
+}
+html, body { @apply bg-brand-navy text-white; }
+.glass { background: var(--glass); @apply backdrop-blur-md border border-white/10; }
+.glass-strong { background: var(--glass-strong); @apply backdrop-blur-lg border border-white/10; }
+.header-blur { @apply backdrop-blur-xl bg-black/30 border-b border-white/10; }
+.btn-gold { @apply text-black transition rounded-full px-6 py-3 font-medium shadow-glow; background-color: var(--accent); }
+.btn-gold:hover { background-color: var(--accent-hover); }
+
+/* alternate accent (user-specified #FDBA74) */
+.accent-alt { color: var(--accent-alt); }
+.accent-alt-text { color: var(--accent-alt); }
+.btn-alt { @apply text-black transition rounded-full px-6 py-3 font-medium shadow-glow; background-color: var(--accent-alt); }
+.btn-alt:hover { filter: brightness(.95); }
+.btn-ghost { @apply glass text-white hover:bg-white/15 rounded-full px-6 py-3 font-medium; }
+.chip { @apply glass rounded-full px-3 py-1 text-xs uppercase tracking-wide text-white/80; }
+.heading { @apply text-3xl md:text-5xl font-extrabold tracking-tight; }
+
+/* Lightbox overrides */
+.yarl__container { background: rgba(0,0,0,0.9) !important; }
+
+@supports not (backdrop-filter: blur(4px)) {
+  .glass, .glass-strong {
+    background: rgba(255,255,255,0.1);
+  }
+}
+
+@media (max-width: 640px) {
+  .heading { @apply text-2xl font-bold; }
+}

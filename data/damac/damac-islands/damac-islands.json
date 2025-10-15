@@ -1,0 +1,48 @@
+{
+  "id": "https://www.damacproperties.com/en/communities/damac-islands-community/projects/damac-islands/",
+  "url": "https://www.damacproperties.com/en/communities/damac-islands-community/projects/damac-islands/",
+  "name": "Damac Islands Townhouses and Villas for sale in Dubailand | DAMAC Properties",
+  "description": "DAMAC Islands By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/5J8U2T6OvN4PsHzEVC68jU/51af98b84b7afd14dd8631553fe7abb9/687135582-653x685-en.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/2kenzsiZQFb6qjQwnXa7U9/dea316a00356494814bb9091f0a43f4e/DAMAC_Islands-Amenities-01-Central_hub_fountain_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1HSwQp1sPr7ggekn8msKGf/eccb4ee782f1d7ed77aa67f3efa3f119/DAMAC_Islands-Amenities-02-Water_platforms_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2H6tOTPUDngiBcqVFBkVAn/2439589095fa56e98dcc982d3e311809/DAMAC_Islands-Amenities-03-Paddling_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/41TpKbMaCnOCk6BgDHOqvY/05e55fb037e83fdf3463b2f35ed5c403/DAMAC_Islands-Amenities-04-Lagoon_waterfalls_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6MSQ5fNsixrK0CH917EiS2/ecab59d281d4491ec3a6e135da9f27ea/DAMAC_Islands-Amenities-06-Jungle_river_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5fUmr6r8VQaoVu5zsdcxJ9/3af7e7da395e404a18e49eedaa24392d/DAMAC_Islands-Amenities-05-Aqua_park_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3hVTJzsrLCbd0OX1IAC16I/03cde694ab2eca24ffb61e7664a9ce41/DAMAC_Islands-Amenities-07-Jungle_swing_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/7meOKFynWVavBZzU0lNbwH/3534da6eb28249118141f8b24526c0d8/DAMAC_Islands-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/67EbB6rylXWKgXdJSoOf9n/f18f8cf55837ab943b5b792ad0ed4a4d/Damac_island_Hero_video_9X16.mp4",
+    "https://videos.ctfassets.net/zoq5l15g49wj/7xP34zfgwAf6Luhixv04kD/a9959619fc648809aaf4468a20cd35ef/ISLANDS_MV-MOBILE.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

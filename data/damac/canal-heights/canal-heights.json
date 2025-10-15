@@ -1,0 +1,47 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/canal-heights/",
+  "url": "https://www.damacproperties.com/en/projects/canal-heights/",
+  "name": "DAMAC Canal Heights by de Grisogono - apartments for sale in Dubai | DAMAC Properties",
+  "description": "Canal Heights By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/2LRPMHBIdfo2QZVZ0TMaDI/291e30cb1737e34034dfa65647546bcc/ProjectHeader-Mobile-EN__2_.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/11xvv0evGwULT1GttICJEq/5ea40d0c3aa47184ab51f5b1004be2e5/647583627-amenities-1-pearl-museum-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/4dGhMxHoBTjmwtYScfOuow/2c45c6a977946e13909ae12a3c4fe7a6/647583648-amenities-2-restaurant-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6mHr9IkPH96ryyGeplh5X6/1d5bd07821494afe3ace2ed837dedc25/647583671-amenities-3-rooftop-cafe-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/7erRINXb0bz2yRVhzu9rEF/5fce3c6c9ea9a94a7905b4ee96e792ac/647583682-amenities-4-yoga-domes-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6YxlqAzBDs6Q0VdCs971nH/6bc7db32672b6d6869e985e6dfb55796/647583706-amenities-6-infinity-pool-4x3_1__1_.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/1DZN5iGQVdrkGrjUz2RnZA/64cf643d4537562182a46a31460427fd/647583695-amenities-5-pool-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/4NPe5G1ZQhOBa8BskMGeld/e205851586580805b55352d614bcea46/Canal_Heights-Project_BG_Image_16x9__1_.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/6iYi67A2TRnbO7QW7wtLf/98d746eb1df4039b1d4c1ce3d4b7a782/CANAL_HEIGHTS_DP_website_project_video_9x16.mp4",
+    "https://videos.ctfassets.net/zoq5l15g49wj/48TXilpPaOmPAChJ14jpf6/0441a53e5c2c343023c3af8f50a3a30d/CANAL_HEIGHTS_DP_website_Hero_video_9x16.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

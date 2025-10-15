@@ -1,0 +1,43 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/harbour-lights-de-grisogono-geneve/",
+  "url": "https://www.damacproperties.com/en/projects/harbour-lights-de-grisogono-geneve/",
+  "name": "HARBOUR LIGHTS DE GRISOGONO GENEVE - Apartments for Sale in Dubai | DAMAC Properties",
+  "description": "Harbour Lights By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/1BU8O1jLidz9wHFYpV1v0O/eb63b41691307b8d03fe5f1094ac502d/653x685-EN__9_.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/7AskWAG17xa5rDQl239HlS/3358b5286ae77c7ccbb47bc059fea50f/Harbour_Lights-Amenities-01-Floating-Pool-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5LPSkvxjXi9QwEuWA117nc/46902c503496fb3c9044a81b70623da3/Harbour_Lights-Amenities-02-Infinity-Pool-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5y5XdciLcrOPIaqWySsZzw/596b28354f0fed212eacc9c45f035d2b/Harbour_Lights-Amenities-03-Cabin-Like-Rooms-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/JlXl7rSFxzQl5r1YrGQ32/65726f915a99e5d45984c41aca99c194/Harbour_Lights-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/3bNyWPEWh9v7cmFRB2jejZ/a661bf4da99ac50f790b8a76a554fec8/Dp.com_Harbour_Lights_Hero_video__9X16_.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

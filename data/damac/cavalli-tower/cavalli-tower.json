@@ -1,0 +1,46 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/cavalli-tower/",
+  "url": "https://www.damacproperties.com/en/projects/cavalli-tower/",
+  "name": "Cavalli Tower Apartments for sale in Dubai UAE | DAMAC Properties",
+  "description": "Cavalli Tower By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/7q5TFJT8cROuvWfoTshFOx/3217e62e90967980202d64b7d2f99d21/Cavalli-tower-hero-banner-mobile.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/5Rym52dLyKQ0293Eed3I6A/7c5b68570b77d7d56c8c2ff271f18d12/Cavalli_Tower-Amenities-01-Beach-Pool-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/Vlst9Yx0HwjvJZhHIloqv/f305694333a2a82743cdfcda3427b333/Cavalli_Tower-Amenities-02-Wellness-Area-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/73lYx8KIcbd8uohUPLsuvt/edb2ed5b72bebaa5c9d38ac250cc9f91/Cavalli_Tower-Amenities-03-Indoor-Waterfall-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5m1i8jHg5ALaVQ7V9se8Xe/8d1df034e44bb35608659612b82d8fa1/Cavalli_Tower-Amenities-04-Jet-Elevators-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/173q4jfA87UwmXxscd5jva/2ed04d5ece2ffbf9fa2ac270e62926e7/Cavalli_Tower-Amenities-05-Sky-Pool-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/4c3PWa5pwKBNR3SoWtwTDK/ebecc3a8db4cca24f2e46441ab0eccba/Cavalli_Tower-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/4djc6I4sTqzSbIBXVM4A4o/83dda9ee9192f5dd024aae680528d7e9/CAVALLI_TOWER_hero_video__9x16_.mp4",
+    "https://videos.ctfassets.net/zoq5l15g49wj/5mrm4FSKcxN0I6hvUPAYk8/84b1879f4e90307c2b6a9e8d796e1a54/CAVALLI_TOWER_hero_video__9x16_.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

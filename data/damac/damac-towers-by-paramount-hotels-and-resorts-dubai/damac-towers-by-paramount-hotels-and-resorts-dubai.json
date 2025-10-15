@@ -1,0 +1,44 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/damac-towers-by-paramount-hotels-and-resorts-dubai/",
+  "url": "https://www.damacproperties.com/en/projects/damac-towers-by-paramount-hotels-and-resorts-dubai/",
+  "name": "DAMAC Tower By Paramount - Tower A - Apartments for sale in Dubai | DAMAC Properties",
+  "description": "DAMAC Towers by Paramount Hotels and Resorts Dubai By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/25h9T2en8cAraXWbJ6N1Ax/a3ac13bbe9fb396b8f2f0e8a2953269b/dtp-hero-image-mobile.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/23ZDf8nYn3rZyF0Re1xC1K/ec6c70e9afcbcf21397303fe13a0bf51/Damac_Tower_By_Paramount-Tower_A-Homepage_Hero_9x16-1.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4OKyuNIJkq0HRUJlkPCt36/1065046d790cb99b1cefc024425c4a0c/Damac_Tower_By_Paramount-Tower_A-Amenities-01-Swimming-Pool-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4VOIiuTejUPbtloBHDW9m2/5ab44ef3bd159b99366ecd9cdc5aa8ac/Damac_Tower_By_Paramount-Tower_A-Amenities-02-Dine-in-Cinema-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/39BnmNOf0fsqBJWOOyVSgx/b1880edce68ace3d33e81d9a61509cd2/Damac_Tower_By_Paramount-Tower_A-Amenities-03-Gym-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/3laPI3dvofksnIRfOi5YSZ/ff389dd522a845b996be5ec82a41e7c8/Damac_Tower_By_Paramount-Tower_A-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/2tfIOoNn6LoXyDAsfxG4xn/6424df6cbe9aff604997acb87dc46937/DPT_Hero_video_9X16.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

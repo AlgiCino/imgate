@@ -1,0 +1,47 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/couture-by-cavalli/",
+  "url": "https://www.damacproperties.com/en/projects/couture-by-cavalli/",
+  "name": "Couture by Cavalli Apartments For Sale In Dubai | DAMAC Properties",
+  "description": "Couture by Cavalli By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/TAU2Aps7xVGuiOlk6aUmo/8dfabceb4522b6196c7e0f77cab5d669/ProjectPage-653x685-EN.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/1w632toOCoOimkaj5R1gnp/588449054fe0344d2e6927f5f52c87d3/647567633-amenities-1-cigar-lounge-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/1KWtaShWAEuepK9i9RDJv8/a29c8edb170872323ccbaf914cc6476f/647567658-amenities-2-clubhouse-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/2DzAVVZfJihQfyHkhyL26M/f49c3cf924a6b9efd5f1cbc2844dc815/amenities-3-gym-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/2wYgA2y2KNqGUFlYUoVs2N/6695e1227afd16863a06c0db36ce3d71/647567683-amenities-4-rooftop-pool-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6wxHTrdGcG8F7A4KBkZ6fe/712b946ce6de3964afd8184edd2146d1/amenities-5-swimmable-lagoon-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/2ARc91CXliZTfulpCj0xYu/ce2054923e2e54f27e1c5b35b70efb0b/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6EicGxni6dsNhC41xLV7pq/94804c7f006ab7380670cc1ae87ff396/Couture-By-Cavalli_Background_01.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/60AmbrYuFJYkFYe1Wg2J80/e90db5b7f8cb357b183285d4a7e0a6f1/Compressed_Cavali_Couture_-Super_Luxury_DP_website_Hero_video_9X16_72751358.mp4",
+    "https://videos.ctfassets.net/zoq5l15g49wj/6MDVUwX4LwOKgkSN9E4g6E/8c95e1e1c3115e13ee390c1a50505648/Compressed_Cavali_Couture_-Super_Luxury_DP_website_Hero_video_9X16_72751358.mp4",
+    "https://videos.ctfassets.net/zoq5l15g49wj/40YeGZ3gcGCRtiakoCa67z/e2ad5638387f39934dfd1c348c764cb8/COUTURE_MV-MOBILE.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

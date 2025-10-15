@@ -1,0 +1,46 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/damac-bay-2-by-cavalli/",
+  "url": "https://www.damacproperties.com/en/projects/damac-bay-2-by-cavalli/",
+  "name": "DAMAC Bay 2 by Cavalli - Apartments For Sale In Dubai | DAMAC Properties",
+  "description": "DAMAC Bay 2 by Cavalli By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/2ejDmW4UsnMsg6qC1fxuS8/966d4888af443615f0956a78e7d52d09/653x685-EN__10_.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/5zA3mlnJdxFd1Wr5YTGHl1/64461e1813e95ad2a6cf67b80e212b3b/647603918-amenities-1-floating-relaxation-pods-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/78CRx4IddZhNHLUdhsHgJl/04a86286dc36d402909a8b258e4afd76/652992669-damac-bay-amenities-2-infinity-pool-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/2bjK6chQ6amM5lXOfxtC3t/bcb068f131093e934a12e39d5d184006/DAMAC_Bay_2-Amenities-01-Sky-Garden-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/5f8bprDakQLITvZ99oXYlk/a7d915f9d3fe92f578172563cfe1570e/652992677-damac-bay-amenities-3-cavalli-inspired-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/5fW2TBNZF1fvgFlsBKDeSH/03f7e6cfbb4b67c95588d1705f9d655b/652992688-damac-bay-amenities-4-therapy-pods-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/5iuwmAvXKx1CGI7PoCjggw/d3f91e07fd89a74c6d36390105060712/652992695-damac-bay-amenities-5-hot-tub-boat-3x4_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6w7KBSrhb2Q4fyahZHJTTn/338dc627cb4be5a409663af38bba0d71/Damac_Bay_2-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/WOKvY0sbo4RwbXD1A69ex/c8b72b4d31ee660260b000ef5c8fecdd/DAMAC_BAY_2_LAUNCH_DP_website_Hero_video_9x16_EN.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/safa-one-de-grisogono/",
+  "url": "https://www.damacproperties.com/en/projects/safa-one-de-grisogono/",
+  "name": "Safa One",
+  "description": "Safa One de Grisogono By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/1X9VEtC7VgKXOlVDDYaEjt/e90b52af845f29aa656474dc970fea56/653x685-EN__17__1.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/4f7pwLdN7Z3G0R7Rk93iby/4ceac45f21b5880b6773a6227866faa2/Safa_One-amenities-1-gym.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/ngYgUMl0ZdlzVYiJXHsuH/715ef719dff440f9f39933926a121c65/647042090-amenities-4-infinity-beach-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5zQZWnolWvpcgzFSGh7nFu/646dd2c4444ccfeb996c763b705f9533/647042047-amenities-1-tropical-rainforest-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2ykRiTu1ZeTjcXeRaBqFKt/d15d2bf2a1ddb156e207b294f4afa0d3/652987018-safa-one-amenities-2-clubhouse-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/CwHnqwacZMWaoUTnLcoRR/9e1306751b010e67b394f1eed7e3343c/652987027-safa-one-amenities-3-restaurant-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4IUzPe5v1G9TZ4XmcGE7Hs/76288cc14d1fb55e7d5dd5a4d50020b4/Safa_One-amenities-5-splash-pool-3x4.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/77IkI0DcrNv9NcrnsPMxfn/9d593a8a420e9571fd11af2cef2a499a/Safa_One_de_GRISOGONO-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/oeJRwfBG0lSgvuGpTiHWB/798a451ab677669bf821f6561b96fb2a/safa_1_DP.com__Hero__9X16.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/damac-bay-by-cavalli/",
+  "url": "https://www.damacproperties.com/en/projects/damac-bay-by-cavalli/",
+  "name": "DAMAC Bay by Cavalli - Luxury Apartments For Sale In Dubai | DAMAC Properties",
+  "description": "DAMAC Bay by Cavalli By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/1aGR1R9aJuviL3u7j7akdj/ead9322815927880603d6bbcdab3817f/653x685-EN__13_.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/6avs8ezSHWFTXcsWe80fwp/fb3e872d3fbb91bffee08ccfdc367395/652994180-damac-bay-1-amenities-4-infinity-pool-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/24UqEZgaGVrAUC9e8VBOUf/dc41aca558d0f26346b8d6ccae415631/652994152-damac-bay-1-amenities-1-sky-garden-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/7EluAfJFlkahffTv5RMdfI/9ba0c4b8a8c2d83a0ca9d9560ab0b4bc/652994159-damac-bay-1-amenities-2-floating-workstation-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/2UYSeZOw58tagYFdrXkyQe/9846f7c60262c1118a63238692443dc8/652994190-damac-bay-1-amenities-5-private-beach-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/4wuRrlQYyNkbJgXkVXQBof/0c106c726bddb4631b660a1b177b5d06/652994168-damac-bay-1-amenities-3-opera-pavillion-4x3_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/38g1gmTaZ1GNNOg86L5Cxq/e346ab64a1a86bd8095638e04e9caa0c/Damac_Bay-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/6H0LuomL21aCoyUqKOHTCM/1089025ae24beca70246327907912136/DAMAC_BAY_DP_website_Project_video_9x16.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

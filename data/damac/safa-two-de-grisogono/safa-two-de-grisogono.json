@@ -1,0 +1,46 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/safa-two-de-grisogono/",
+  "url": "https://www.damacproperties.com/en/projects/safa-two-de-grisogono/",
+  "name": "Safa Two Apartments for Sale in Dubai | DAMAC Properties UAE",
+  "description": "Safa Two de Grisogono By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/InK9PA7fplCD2W39ZD5gL/8fc5ba94196ca3ca1ac9b3459bbae82e/653x685-EN_0.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/EDCY1L3f5ShYOYhg2yPps/cfb9fe5f1a051d1ce738b590bb93f4e4/Safa_Two-Amenities-01-Infinity-Pool-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1wMRpzYoqhe5mz7pi71sld/1688ff9f591297370a3fadb22249a451/Safa_Two-Amenities-02-Cafes-and-Restaurants-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1pvY8HwQKoZBkBiikJ5QHd/753e9132cd528b03998fbe03350e101d/Safa_Two-Amenities-03-Fog-Forest-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2Z0Bemwps4TZf8924ceAeB/9ea6133d5a999a20fca977d4bb05fd20/Safa_Two-Amenities-05-Glass-Slide-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4DBBBttHlcqQuh05PhhbGP/c293ebfaac19eb2af3ddb274ccb46f1d/Safa_Two-Amenities-04-Edge-Walk-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/2vrRNMmN4Loe158s0dTpmf/b6bd8aba8d6ae3b73cf47ac97fba4320/Safa_Two-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/41jgRX2hyGNpqCAJue8JoU/270ff8844a6268839a1fdc757760f554/SAFA2_project_video__9X16_.mp4",
+    "https://videos.ctfassets.net/zoq5l15g49wj/NfjQnCRAVXOiRBfJzJ0wb/5483b92afc6345c0d64447bba7b1a6a8/SAFA2_Hero_video__9X16_.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

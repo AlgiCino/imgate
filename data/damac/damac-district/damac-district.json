@@ -1,0 +1,49 @@
+{
+  "id": "https://www.damacproperties.com/en/communities/damac-hills-community/projects/damac-district/",
+  "url": "https://www.damacproperties.com/en/communities/damac-hills-community/projects/damac-district/",
+  "name": "DAMAC District Apartments and Offices for Sale in DAMAC Hills Dubai - DAMAC Properties",
+  "description": "Buy Apartments and Offices in DAMAC District at DAMAC Hills by Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan.",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "off-plan",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/51ZsvAURObohC2lhaXlvV6/b7795361f9bd48da5852ee189775a37e/DAMAC_District-Homepage_Hero_9x16.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/2VvLL79sWGJkbDYMaWhdeB/921f5dc285aa30156768f94a2f5b69ac/DAMAC_District-1-Amenities-Whispering_waters.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/xYMgKL1l4e5WBjOqv0UR8/f50d6e5a11e8ef2ca5faf766c2464cab/DAMAC_District-2-Amenities-Cloud_zen_lounge.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4r1sVsGv3pQjJIY9mQlUSB/f32f4bbead08a597f3826d42d13d034a/DAMAC_District-3-Amenities-Gym___AI_training_lab.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4r0IvUhunvTuU0TgdAEbjO/d935a14124c1eb8432ebdb93c2aa028d/DAMAC_District-4-Amenities-Private_dining_pods.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/gwEcVyiEFuJxYzAwkkh6d/e51a802d05eb78f0c065e9f0c86d186e/DAMAC_District-5-Amenities-Sunset_bar.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5SCJVkGjoSnielp02riuS7/57a49574e7d612781a0a5d30e6a4919e/DAMAC_District-6-Amenities-Padel_courts.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2OZtCYtUKzZFAkOj9s9nqF/ac42fb000fd4d66ed759380268ca1b9d/DAMAC_District-7-Amenities-Trump_International_Golf_Club.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6H9buF2IQZldIoOZGbOTS/29b828e58da1bed6eee4ad8a3856cbfb/DAMAC_District-8-Amenities-Outdoor_workspaces.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/6FxHm2UZggdUHgIzk9sN1X/bb057f74442ba17bd51266e43a78c822/DAMAC_District-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/6DMh5jslxhfy42Pon38WtC/ddec36d23bac856372a8ab34535533eb/DAMAC_DISTRICT_1080x1920_DP.com.mp4",
+    "https://videos.ctfassets.net/zoq5l15g49wj/irCxLYSMsFae5YGd82OJb/45d8447475025228762d42702a5fe65f/DAMAC_DISTRICT_1080x1920_DP.com.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}

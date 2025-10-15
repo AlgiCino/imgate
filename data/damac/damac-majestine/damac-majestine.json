@@ -1,0 +1,43 @@
+{
+  "id": "https://www.damacproperties.com/en/projects/damac-majestine/",
+  "url": "https://www.damacproperties.com/en/projects/damac-majestine/",
+  "name": "DAMAC Majestine Furnished Apartments for Sale in Dubai UAE | DAMAC Properties",
+  "description": "DAMAC Maison Majestine By Cash and Crypto for Real Estate Investment and get Residential Visa in UAE ✓ Highest ROI Luxury Off Plan Projects in Dubai for sale ✓ Easy Payment Plan ",
+  "location": null,
+  "priceMinAED": 2499,
+  "priceMaxAED": null,
+  "propertyTypes": [
+    "Villa",
+    "Apartment",
+    "Townhouse"
+  ],
+  "bedrooms": {},
+  "goldenVisa": null,
+  "status": "ready to move",
+  "completionDate": "N/A",
+  "coords": null,
+  "mainImage": "https://images.ctfassets.net/zoq5l15g49wj/5B2pIOThKXEyK3A5fufIne/7654ee003ec93af59b4d8e98927c9b1f/damac-majestine-hero-image-mobile.jpg",
+  "gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3WKvMgzRqbba8dRmeaDtGG/0802801510308c9873d1d6f26921ff4f/DAMAC_Majestine-Amenities-01-Gym-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/68bwfTPCNq8dnjCgvLpxLB/e78d9482399b0815cea44c5f296cf994/DAMAC_Majestine-Amenities-02-Pool-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/19QUIZvvNfdN85xWzV3wUe/3aeedd49f471505c611ec9f36ff531d6/DAMAC_Majestine-Amenities-03-Sauna-4x3.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/3yg3EYrV2zJQ011IfI7Sb0/9dd794a8cfa3dc10c2a8466b8017fd2b/DAMAC_Majestine-Project_BG_Image_16x9.jpg"
+  ],
+  "videos": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/DZTN6leEoR0yeItjlh5Gg/01a5c9a831a5e610f691a5f12d84e4c2/Damac_Majestine_Hero_video__9x16_.mp4"
+  ],
+  "brochures": [
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+    "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+  ],
+  "models3d": [],
+  "amenities": [],
+  "ok": true,
+  "statusCode": 200,
+  "mapFound": false,
+  "error": null
+}
