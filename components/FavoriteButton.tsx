@@ -13,6 +13,7 @@ export default function FavoriteButton({ projectId, size = 'md', showLabel = fal
 
   useEffect(() => {
     checkFavoriteStatus();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [projectId]);
 
   const checkFavoriteStatus = () => {
